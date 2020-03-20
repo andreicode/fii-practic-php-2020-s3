@@ -1,6 +1,9 @@
 # Fii Practic - Sesiunea 3
 In acest workshop vom acoperi doua topici importante din domeniul PHP: __Programarea Orientata Obiect__ si __Bazele de Date__.
 
+>Inainte de inceperea trainingului, va rog sa testati PhpMyAdmin (vine cu xampp si wamp). Aveti niste poze care va pot ajuta in folder-ul __db-00-set-up__.
+PhpMyAdmin e un tool cu care putem face management la baza de date din browser. Tool-ul e scris in PHP. El vine la pachet cu XAMPP si WAMP - trebuie doar sa deschideti serviciile de Apache si de MySql. Daca aveti alte configurari, sau probleme, va rog sa ne contactati inainte.
+
 ## Programare Orientata Obiect (OOP)
 1. Ce este o clasa?
 2. Cand e bine sa folosim o clasa?
