@@ -10,9 +10,8 @@ PhpMyAdmin e un tool cu care putem face management la baza de date din browser. 
 3. clasa vs instanta
 4. proprietati. public vs protected vs private
 5. metode
-6. Interfete. Si cand e util sa le folosim.
-7. Mostenire. Extends vs Implements
-8. Unde folosim cel mai des clasele in practica?
+6. Mostenire
+7. Unde folosim cel mai des clasele in practica?
 
 Link util: [PHP OOP](https://www.w3schools.com/php/php_oop_what_is.asp)
 
