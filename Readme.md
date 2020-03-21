@@ -50,7 +50,8 @@ Va provoc sa modificati aplicatia cu Cosul de Cumparaturi din sesiunea 2 sa se f
 Comenzi:
  - git status
  - git add .
- - git commit
+ - git commit (scrieti mesaj, si dupa ESC => ':x' pt save and exit )
+ - git commit -m "Add files..."
  - git push
 
 Link util: [Git download](https://git-scm.com/)
