@@ -22,6 +22,7 @@ $path = str_replace($BASE_URL,'', $request);
  */
 $share = 'Shared code';
 
+var_dump($path);
 
 /**
  * This is where the routing happens.
