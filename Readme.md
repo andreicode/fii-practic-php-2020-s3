@@ -45,3 +45,13 @@ Cateva linkuri utile:
 
 Va provoc sa modificati aplicatia cu Cosul de Cumparaturi din sesiunea 2 sa se foloseasca de o rutare similara ca cea din exemplu.
 
+## GIT
+
+Comenzi:
+ - git status
+ - git add .
+ - git commit
+ - git push
+
+Link util: [Git download](https://git-scm.com/)
+
